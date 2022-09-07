@@ -29,7 +29,7 @@ Open `Gear` > `Keyboard Shortcuts` > type `hover` > `C-c C-t`
 
 type `next problem` > `C-x C-c`
 
-**test**
+## test
 
 ```
 cd basic
